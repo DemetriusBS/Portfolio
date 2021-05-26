@@ -1,3 +1,48 @@
 *{
   box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+}
+
+body{
+  background: linear-gradient(#0000cc, #000066)
+}
+
+.logo{
+  width: 20%;
+  height: 150px;
+  border-radius: 0px 100px;
+  background-color:  #66ff66;
+  text-align: center;
+  padding: 50px;
+  font-size: 40px;
+  box-shadow: 10px 10px 5px #000000;
+}
+
+.logoIniciais{
+  color: #000000;
+  text-shadow: 2px 2px 1px #000000;
+}
+
+.quemSou{
+  width: 100%;
+  height: 200px;
+  opacity: 0.2;
+  border-radius: 25px;
+  margin-top: 2px;
+}
+
+.habilidades{
+  width: 100%;
+  height: 200px;
+  opacity: 0.2;
+  border-radius: 25px;
+  margin-top: 2px;
+}
+
+.rodape{
+ width: 100%;
+ height: 100px;
+ opacity: 0.2;
+ border-radius: 25px;
+ margin-top: 2px;
 }
